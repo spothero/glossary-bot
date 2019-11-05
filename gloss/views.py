@@ -18,8 +18,8 @@ SEARCH_CMDS = ("search",)
 
 ALIAS_KEYWORDS = ("see also", "see")
 
-BOT_NAME = "Gloss Bot"
-BOT_EMOJI = ":lipstick:"
+BOT_NAME = "SpotHero Glossary"
+BOT_EMOJI = ":spotherocar:"
 
 '''
 values posted by Slack:
